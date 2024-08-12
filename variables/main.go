@@ -10,7 +10,7 @@ func main() {
 	var result bool = TypeConversions()
 
 	if result {
-		fmt.Println("Returning because of true")
+		fmt.Println("\nTerminating application...")
 		return
 	}
 
